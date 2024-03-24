@@ -1,6 +1,6 @@
 # Board-Game-Babylonian-Pandemonium
 
-Babylonian Pandemonium is a tabletop game inspired by the myth of Babel Tower played by 4 people in different roles. 
+Babylonian Pandemonium is a tabletop game inspired by the myth of Babel Tower played by 4 people in different roles made in 06/2023.
 
 Below you can find the GDD for the game. 
 
