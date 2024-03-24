@@ -1,4 +1,4 @@
-# Board-Game-Babylonian-Pandemoniuman
+# Board-Game-Babylonian-Pandemonium
 
 Babylonian Pandemonium is a tabletop game inspired by the myth of Babel Tower played by 4 people in different roles. 
 
